@@ -50,10 +50,10 @@ salary|The employee's salary (U.S. dollars)
 
 
 # Tableau Dashboard
+![SalifortMotors Dashboard](https://github.com/MarcoDeTommasi/SalifortMotorsProject/assets/79840407/63b5134c-be07-48bb-b676-c93021af4a64)
 
-|[image](https://github.com/MarcoDeTommasi/SalifortMotorsProject/blob/main/SalifortMotors%20Dashboard.png)
 available at:
-![link](![link](https://public.tableau.com/authoring/[HRproblemDashboard](https://public.tableau.com/app/profile/marco.de.tommasi/viz/HRproblemDashboard/Dashboard1)/Dashboard1#1))
+![DashBoard SalifortMotors](https://public.tableau.com/authoring/[HRproblemDashboard](https://public.tableau.com/app/profile/marco.de.tommasi/viz/HRproblemDashboard/Dashboard1)/Dashboard1#1)
 
 
 
