@@ -42,5 +42,10 @@ salary|The employee's salary (U.S. dollars)
 
 # Some Important Findings:
 
+![image](https://github.com/MarcoDeTommasi/SalifortMotorsProject/assets/79840407/678fba78-4c3f-48fd-a7e8-c2586237572a)
+![image](https://github.com/MarcoDeTommasi/SalifortMotorsProject/assets/79840407/6969c13a-f616-4108-afdb-a98470c1dd47)
+![image](https://github.com/MarcoDeTommasi/SalifortMotorsProject/assets/79840407/f18d7628-c8da-4bed-914e-1db84c1f5341)
+
+
 
 
