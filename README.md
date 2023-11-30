@@ -49,7 +49,9 @@ salary|The employee's salary (U.S. dollars)
 ![image](https://github.com/MarcoDeTommasi/SalifortMotorsProject/assets/79840407/678fba78-4c3f-48fd-a7e8-c2586237572a)
 
 
+#Dashboard available at:
 
+https://public.tableau.com/authoring/HRproblemDashboard/Dashboard1#1
 
 
 
